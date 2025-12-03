@@ -8,11 +8,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Informações pessoais (opcional)
-author:
-  name: Carolina Peçaibes
-  email: seuemail@example.com
-
 # Optional configs
 markdown: kramdown
 highlighter: rouge
@@ -22,3 +17,6 @@ just_the_docs:
   aux_nav: {}   # mantém limpo
   navigation_depth: 4
   show_toc: true
+
+just_the_docs:
+  toc_label: "Sumário"
