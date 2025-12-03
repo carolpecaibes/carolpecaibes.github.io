@@ -1,0 +1,10 @@
+{% if page.toc %}
+  <h2 class="text-delta">Sumário</h2>
+  <ul class="toc-list">
+    {% for heading in page.toc %}
+      <li class="toc-item">
+        <a href="#{{ heading.id }}">{{ heading.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
