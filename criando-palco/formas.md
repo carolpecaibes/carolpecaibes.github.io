@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Formas para criação do palco
-parent: Criando o palco
+parent: Editando o palco
 nav_order: 2
 ---
 
