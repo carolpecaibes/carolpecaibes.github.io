@@ -16,3 +16,9 @@ author:
 # Optional configs
 markdown: kramdown
 highlighter: rouge
+
+# Ativar navegação na barra lateral
+just_the_docs:
+  aux_nav: {}   # mantém limpo
+  navigation_depth: 4
+  show_toc: true
