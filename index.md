@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Página Inicial
+title: Página inicial
 nav_order: 1
 ---
 
-# Bem-vindo ao Manual Marca e Deixa
+# Bem-vindo ao manual de uso do **marca e deixa**!
+
+Este manual irá mostrar como usar muitos dos recursos disponíveis no site [marcaedeixa.com](https://marcaedeixa.com).
+
+Caso tenha dúvidas, sugestões ou correções, contate-nos no e-mail _carolpecaibes@gmail.com_.
