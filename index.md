@@ -8,4 +8,4 @@ nav_order: 1
 
 Este manual irá mostrar como usar muitos dos recursos disponíveis no site [marcaedeixa.com](https://marcaedeixa.com).
 
-Caso tenha dúvidas, sugestões ou correções, contate-nos no e-mail _carolpecaibes@gmail.com_.
+Caso tenha dúvidas, sugestões ou correções, contate-nos no e-mail _marcaedeixa@gmail.com_.
