@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Editando o palco
-parent: Criando o palco
+title: Modificando o palco
+parent: Editando o palco
 nav_order: 4
 ---
 
-# Editando o palco
+# Modificando o palco
