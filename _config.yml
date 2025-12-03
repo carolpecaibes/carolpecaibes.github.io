@@ -17,6 +17,3 @@ just_the_docs:
   aux_nav: {}   # mantém limpo
   navigation_depth: 4
   show_toc: true
-
-just_the_docs:
-  toc_label: "Sumário"
