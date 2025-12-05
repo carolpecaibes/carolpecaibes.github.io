@@ -7,5 +7,5 @@ nav_order: 2
 
 # Zoom
 Pode-se alterar o zoom do canvas de duas formas diferentes:
-- Selecionando os ícones de lupa da barra superior do projeto é possível aumentar e diminuir o zoom. Selecionar a seta entre os dóis ícones de zoom faz com que ele volta à visualização de zoom 100%
-- Pressionando a tecla `Ctrl` e usando a roda de rolagem permite aumentar e diminuir o zoom.
+- Selecionando os ícones de lupa <img src="/assets/zoomout.png" width="18"> <img src="/assets/zoomin.png" width="18"> da barra superior do projeto é possível aumentar e diminuir o zoom. Selecionar a seta <img src="/assets/zoom100.png" width="18"> entre os dois ícones de zoom faz com que ele volta à visualização de zoom 100%
+- Pressionando a tecla `Ctrl` e usando a roda de rolagem é possível aumentar e diminuir o zoom
