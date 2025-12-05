@@ -18,7 +18,7 @@ Formato ideal para obter uma visão do projeto na forma de animação suportada 
 ## Projeto `.png` completo
 Formato ideal para salvar todas as cenas em arquivos de imagem. Para exportar, selecione **Projeto completo**. As imagens serão baixadas dentro de uma pasta compactada `.zip`.
 
-## Cena individual
+## Cena `.png` individual
 Formato ideal para salvar uma cena em arquivo de imagem. Para exportar, selecione a cena desejada.
 
 
