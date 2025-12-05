@@ -2,7 +2,7 @@
 layout: default
 title: Propriedades dos elementos
 parent: Elementos
-nav_order: 5
+nav_order: 6
 ---
 
 ### Propriedades dos elementos
