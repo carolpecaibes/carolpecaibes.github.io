@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Salvar (Ctrl+S)
+title: Salvar
 parent: Ferramentas
 nav_order: 3
 ---
 
-# Salvar (Ctrl+S)
+# Salvar
+Todo projeto é salvo de forma automática periodicamente. No entanto, é possível salvá-lo manualmente selecionando o ícone de salvamento 
