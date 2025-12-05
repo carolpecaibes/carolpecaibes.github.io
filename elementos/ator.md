@@ -1,4 +1,4 @@
-<img width="56" height="51" alt="image" src="https://github.com/user-attachments/assets/0e5ef9a6-f7d9-4fd0-8e24-13bd1f9807e9" />---
+---
 layout: default
 title: Ator
 parent: Elementos
