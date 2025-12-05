@@ -17,7 +17,7 @@ O ator é representado por um círculo com uma sigla alfanumérica única de doi
 
 ## Excluir ator do projeto
 1. Selecione o ícone dos atores <img src="/assets/atores.png" width="18"> do projeto na barra esquerda
-2. Selecione o ícone da lixeira vermelha correspondente ao ator que deseja excluir
+2. Selecione o ícone da lixeira vermelha <img src="/assets/lixeiraator.png" width="18"> correspondente ao ator que deseja excluir
 3. Selecione **OK**
 Obs.: Esta ação excluirá o ator de todas as cenas em que ele aparece.
 
