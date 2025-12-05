@@ -7,26 +7,18 @@ nav_order: 4
 
 # Exportar
 
-## Exportar projeto `.json` completo
-Formato ideal para enviar o projeto para outro usuário da plataforma sem incluí-lo como colaborador.
-1. Selecione o ícone de exportação <img src="/assets/exportar.png" width="18">
-2. Selecione **Exportar JSON**
+Para todos os formatos de exportação deve-se primeiro selecionar o ícone de exportação <img src="/assets/exportar.png" width="18"> na barra superior do projeto.
 
-## Exportar projeto `.svg` completo
-Formato ideal para obter uma visão do projeto na forma de animação suportada por navegadores web.
-1. Selecione o ícone de exportação <img src="/assets/exportar.png" width="18">
-2. Selecione **Exportar SVG**
+## Projeto `.json` completo
+Formato ideal para enviar o projeto para outro usuário da plataforma sem incluí-lo como colaborador. Para exportar, selecione **Exportar JSON**.
 
-## Exportar projeto `.png` completo
-Formato ideal para salvar todas as cenas em arquivos de imagem.
-1. Selecione o ícone de exportação <img src="/assets/exportar.png" width="18">
-2. Selecione **Projeto completo**
+## Projeto `.svg` completo
+Formato ideal para obter uma visão do projeto na forma de animação suportada por navegadores web. Para exportar, selecione **Exportar SVG**.
 
-As imagens serão baixadas dentro de uma pasta compactada `.zip`
+## Projeto `.png` completo
+Formato ideal para salvar todas as cenas em arquivos de imagem. Para exportar, selecione **Projeto completo**. As imagens serão baixadas dentro de uma pasta compactada `.zip`.
 
-## Exportar cena individual
-Formato ideal para salvar uma cena em arquivo de imagem.
-1. Selecione o ícone de exportação <img src="/assets/exportar.png" width="18">
-2. Selecione a cena que deseja exportar
+## Cena individual
+Formato ideal para salvar uma cena em arquivo de imagem. Para exportar, selecione a cena desejada.
 
 
