@@ -12,7 +12,7 @@ O objeto é representado por um triângulo, quadrado ou hexágono com uma sigla 
 1. Selecione **Cadastrar Objeto** na barra superior do projeto
 2. Insira o nome do objeto e a sigla que o representará
 3. Escolha a forma que o representará (triângulo, quadrado ou hexágono)
-4. Opcionalmente, insira notas sobre o objeto e modifique seu tamanho (é possível modificá-lo posteriormente)
+4. Opcionalmente, insira notas sobre o objeto e especifique seu tamanho (é possível modificá-lo posteriormente)
 5. Escolha a cor que o representará (caso queira uma cor que não está disponível no menu de criação, é possível modificá-la posteriormente)
 6. Selecione **Criar Objeto**
 
