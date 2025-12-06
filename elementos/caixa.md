@@ -8,7 +8,7 @@ nav_order: 5
 # Caixa de texto
 
 ## Incluir caixa de texto
-1. Selecione o ícone de letra <img src="/assets/textoo.png" width="18"> disponível na barra esquerda do projeto
+1. Selecione o ícone de letra <img src="/assets/texto.png" width="18"> disponível na barra esquerda do projeto
 2. Digite o texto desejado na caixa seção **Texto**
 3. Opcionalmente, edite o tamanho da caixa e tamanho da fonte
 4. Selecione como quer que a prévia do texto apareça no canva (texto completo, apenas início, apenas final, ou início e final)
