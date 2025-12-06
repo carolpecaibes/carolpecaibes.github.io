@@ -22,6 +22,12 @@ Caso queira apagar uma caixa de texto, isso pode ser feito de quatro maneiras:
 - Selecione a caixa de texto desejada no canvas com o botão esquerdo e aperte `Delete`
 - Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a caixa de texto desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
 
-## Editar caixa de texto
-1. Clique duas vezes com o botão direito do mouse na caixa de texto
-2. Edite o texto
+## Editar conteúdo da caixa de texto
+O conteúdo da caixa de texto pode ser modificado de duas formas:
+- Clique duas vezes com o botão direito do mouse na caixa de texto e edite o texto
+- Selecione a caixa de texto, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e edite o texto na seção **Texto**
+
+## Editar tamanho da fonte do texto
+1. Selecione a caixa de texto
+2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
+3. Modifique o tamanho da fonte na barra deslizante correspondente
