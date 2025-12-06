@@ -21,7 +21,7 @@ Caso queira apagar uma forma previamente incluída, isso pode ser feito de quatr
 - Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a forma desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
 
 ## Mesclar formas
-Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão esquerdo do mouse no canvas e arrastando-o sobre as formas desejadas. Depois, deve-se selecionar uma das ações disponíveis na barra superior do projeto: União <img src="/assets/uniao.png" width="18">, Subtração <img src="/assets/subtracao.png" width="18">, Interseção  <img src="/assets/intersecao.png" width="18"> ou Exclusão <img src="/assets/exclusao.png" width="18">
+Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão esquerdo do mouse no canvas e arrastando-o sobre elas. Depois, deve-se selecionar uma das ações disponíveis na barra superior do projeto: União <img src="/assets/uniao.png" width="18">, Subtração <img src="/assets/subtracao.png" width="18">, Interseção  <img src="/assets/intersecao.png" width="18"> ou Exclusão <img src="/assets/exclusao.png" width="18">
 
 ### União
 A ação de união mescla as formas selecionadas eliminando os contornos presentes na interseção e mantendo a cor do elemento na camada de trás. Isso pode ser feito com múltiplas formas.
