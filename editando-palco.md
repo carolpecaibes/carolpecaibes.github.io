@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editando o palco 2
+title: Editando o palco
 nav_order: 5
 ---
 
