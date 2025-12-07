@@ -16,7 +16,7 @@ nav_order: 4
 
 Todos os elementos (exceto o desenho com a caneta) podem ter seu tamanho modificado. 
 
-## Modificando o tamanho do elemento
+## Modificar o tamanho do elemento
 Caso queira modificar o tamanho do elemento, isso pode ser feito de duas formas:
 
 **Opção 1 -** Selecione o elemento e arraste os pontos referentes às suas bordas para redimensioná-lo
