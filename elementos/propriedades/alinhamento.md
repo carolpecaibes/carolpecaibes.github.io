@@ -38,19 +38,19 @@ O alinhamento horizontal ao centro <img src="/assets/alinhamentocentro.png" widt
 
 ## Alinhamento vertical
 
-O alinhamento vartical ao topo <img src="/assets/alinhamentotopo.png" width="18"> alinha todos os elementos com o topo do elemento na extremidade superior.
+O alinhamento vertical ao topo <img src="/assets/alinhamentotopo.png" width="18"> alinha todos os elementos com o topo do elemento na extremidade superior.
 
 | Antes                                       | Depois                                          |
 |:--------------------------------------------|:------------------------------------------------|
 | <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1topo.png"> |
 
-O alinhamento vartical ao meio <img src="/assets/alinhamentomeio.png" width="18"> alinha todos os elementos ao meio do conjunto.
+O alinhamento vertical ao meio <img src="/assets/alinhamentomeio.png" width="18"> alinha todos os elementos ao meio do conjunto.
 
 | Antes                                       | Depois                                          |
 |:--------------------------------------------|:------------------------------------------------|
 | <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1meio.png"> |
 
-O alinhamento vartical à base <img src="/assets/alinhamentobase.png" width="18"> alinha todos os elementos com a base do elemento na extremidade inferior.
+O alinhamento vertical à base <img src="/assets/alinhamentobase.png" width="18"> alinha todos os elementos com a base do elemento na extremidade inferior.
 
 | Antes                                       | Depois                                          |
 |:--------------------------------------------|:------------------------------------------------|
