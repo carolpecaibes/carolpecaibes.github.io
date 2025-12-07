@@ -20,6 +20,10 @@ Todos os elementos (exceto o desenho com a caneta) podem ter seu alinhamento mod
 
 O alinhamento horizontal à esquerda <img src="/assets/alinhamentoesquerda.png" width="18"> alinha todos os elementos com o elemento na extremidade esquerda.
 
+<img src="/assets/alinhamentoexemplo1.png">
+
 Antes
+
+<img src="/assets/alinhamentoexemplo1esquerda.png">
 
 Depois
