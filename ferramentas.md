@@ -5,6 +5,10 @@ nav_order: 7
 ---
 
 # Ferramentas
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
