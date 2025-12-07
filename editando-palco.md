@@ -36,7 +36,7 @@ Caso queira apagar uma forma previamente incluída, isso pode ser feito de quatr
 
 **Opção 4 -** Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a forma desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
 
-## Definindo o palco
+## Definir o palco
 
 Para criar um palco:
 
@@ -50,7 +50,7 @@ Obs.: Se quiser instruções de como modificar características das formas, aces
   
 Se feito corretamente, aparecerá na seção **Grupos** o palco, indicando a contagem de elementos que o compõe, com um ícone de cadeado fechado <img src="/assets/cadeadofechado.png" width="18"> ao lado
 
-## Modificando o palco
+## Modificar o palco
 
 Para modificar um palco criado é necessário destravá-lo:
 1. Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> disponível na barra direita do projeto
