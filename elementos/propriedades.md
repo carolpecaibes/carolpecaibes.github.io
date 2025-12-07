@@ -8,6 +8,10 @@ has_toc: false
 ---
 
 # Propriedades dos elementos
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
 
 1. [Cor](https://marcaedeixa.github.io/elementos/propriedades/cor.html)
 
