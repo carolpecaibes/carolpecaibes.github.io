@@ -17,7 +17,7 @@ Pode-se alterar o zoom do canvas de duas formas diferentes:
 
 **Opção 2 -** Pressionando a tecla `Ctrl` e usando a roda de rolagem é possível aumentar e diminuir o zoom
 
-# Salvar
+## Salvar
 Todo projeto é salvo de forma automática periodicamente. No entanto, é possível salvá-lo manualmente selecionando o ícone de salvamento <img src="/assets/salvar.png" width="18">
 
 ## Exportar
