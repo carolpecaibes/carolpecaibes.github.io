@@ -16,7 +16,7 @@ nav_order: 5
 
 Todos os elementos (exceto o desenho com a caneta) podem ter sua posição modificada.
 
-## Modificando a posição do elemento
+## Modificar a posição do elemento
 Caso queira modificar a posição do elemento, isso pode ser feito de duas formas:
 
 **Opção 1 -** Selecione o elemento com o botão esquerdo do mouse e arraste-o para a posição desejada
