@@ -6,6 +6,13 @@ nav_order: 3
 ---
 
 # Ator
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 O ator é representado por um círculo com uma sigla alfanumérica única de dois caracteres. Os atores devem ser cadastrados em cada projeto que aparecerão. Não é permitido colocar o mesmo ator mais de uma vez em uma mesma cena nem que dois atores tenham a mesma sigla. É permitido que mais de um ator seja representado pela mesma cor.
 
