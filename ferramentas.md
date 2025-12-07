@@ -4,6 +4,9 @@ title: Ferramentas
 nav_order: 7
 ---
 
+1. TOC
+{:toc}
+
 # Ferramentas
 
 ## Seleção
