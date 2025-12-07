@@ -13,7 +13,7 @@ nav_order: 4
 1. TOC
 {:toc}
 
-## Criando o projeto
+## Criar projeto
 Para criar um novo projeto:
 1. Faça login na plataforma
 2. Acesse o Dashboard
@@ -21,7 +21,7 @@ Para criar um novo projeto:
 4. Especifique o nome do projeto
 5. Selecione **Criar Projeto**
 
-## Excluindo o projeto
+## Excluir projeto
 Para excluir um projeto existente:
 1. Faça login na plataforma
 2. Acesse o Dashboard
@@ -29,6 +29,6 @@ Para excluir um projeto existente:
 4. Selecione **Confirmar Exclusão**
 obs.: Esta ação não pode ser desfeita.
 
-## Compartilhando o projeto
+## Compartilhar o projeto
 
-## Renomeando o projeto
+## Renomear o projeto
