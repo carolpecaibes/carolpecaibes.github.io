@@ -1,2 +1,2 @@
-# carolpecaibes.github.io
-Manual de usuário para Marca e Deixa
+# marcaedeixa.github.io
+Manual de usuário da plataforma "marca e deixa"
