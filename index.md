@@ -4,7 +4,7 @@ title: Página inicial
 nav_order: 1
 ---
 
-# Bem-vindo ao manual de uso do **marca e deixa**!
+# Bem-vindo ao manual de uso da plataforma **marca e deixa**!
 
 Este manual irá mostrar como usar muitos dos recursos disponíveis na plataforma [marcaedeixa.com](https://marcaedeixa.com).
 
